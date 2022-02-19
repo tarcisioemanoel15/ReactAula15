@@ -5,7 +5,6 @@ import { Nave } from './styled';
 export default function Header() {
   return (
     <Nave>
-
     <a href="">
 <FaHome />
     </a>
